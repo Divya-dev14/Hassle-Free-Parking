@@ -2,6 +2,7 @@
 # PhonePark
 .
 This application allows users to buy a parking ticket for their car in the city.
+Refer attached screenshots for outlook of the application.
 
 
 
